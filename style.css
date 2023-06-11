@@ -315,6 +315,11 @@ nav ul li a:hover::after{
     background: #ff004f;
 }
 
+/* -------------------achievement------------------- */
+#achievement{
+    padding: 50px 0;
+}
+
 /* --------------------------contact------------------------ */
 .contact-left a{
     text-decoration: none;
